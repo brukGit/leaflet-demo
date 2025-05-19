@@ -1,4 +1,4 @@
-import CountryMap from './components/CountryMap';
+import CountryMap from './components/countryMap';
 
 function App() {
   return (
